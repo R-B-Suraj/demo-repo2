@@ -25,4 +25,17 @@ so it donesn't know where to push it...
 first we need to make a connection...   because we didn't create it in github we create in local
 
 1. create an empty repository ........  copy ssh
-2. 
+2. git remote add origin paste_copied_ssh_link
+3. check for any remote repositories that we have connected to this repo 
+   git remote -v
+//  remote means somewhere else not in this computer
+// used to add reference to remote repository on github 
+
+
+4. git push origin master
+
+// i can say default push to here  ( upstream )
+5. git push -u origin master
+// in fture we can use git push
+
+
