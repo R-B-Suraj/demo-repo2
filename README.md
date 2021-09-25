@@ -39,3 +39,10 @@ first we need to make a connection...   because we didn't create it in github we
 // in fture we can use git push
 
 
+
+
+
+
+
+now check the work flow for both...  demo-repo  and demo-repo2
+
