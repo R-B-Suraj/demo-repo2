@@ -18,7 +18,7 @@ git status
 git commit -m "title" -m "description"
 
 git push origin master
-// push to origin in master branch  origin means to this directory
+// push to origin and  master branch  origin means to this directory
 
 error...   we haven't cloned it from github
 so it donesn't know where to push it...
@@ -33,7 +33,7 @@ first we need to make a connection...   because we didn't create it in github we
 
 
 4. git push origin master
-origin is the location of our repository...  master is the branch which we want to push to
+origin is the location of where we want to push( our repository )...  master is the branch which we want to push to
 
 // i can say default push to here  ( upstream )
 5. git push -u origin master
