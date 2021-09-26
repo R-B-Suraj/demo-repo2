@@ -33,6 +33,7 @@ first we need to make a connection...   because we didn't create it in github we
 
 
 4. git push origin master
+origin is the location of our repository...  master is the branch which we want to push to
 
 // i can say default push to here  ( upstream )
 5. git push -u origin master
